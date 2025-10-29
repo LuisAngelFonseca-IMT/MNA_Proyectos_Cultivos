@@ -1,0 +1,115 @@
+{
+  "test_loss": 0.8616100214421749,
+  "mIoU": 0.45595455169677734,
+  "pixel_accuracy": 0.745991051197052,
+  "per_class": [
+    {
+      "class_id": 0,
+      "class_name": "class_0",
+      "IoU": 0.7299489378929138,
+      "support_px": 775876
+    },
+    {
+      "class_id": 1,
+      "class_name": "class_1",
+      "IoU": 0.6121923923492432,
+      "support_px": 261333
+    },
+    {
+      "class_id": 2,
+      "class_name": "class_2",
+      "IoU": 0.72849041223526,
+      "support_px": 356961
+    },
+    {
+      "class_id": 3,
+      "class_name": "class_3",
+      "IoU": 0.5600131750106812,
+      "support_px": 96570
+    },
+    {
+      "class_id": 4,
+      "class_name": "class_4",
+      "IoU": 0.7435330152511597,
+      "support_px": 66031
+    },
+    {
+      "class_id": 5,
+      "class_name": "class_5",
+      "IoU": 0.33225902915000916,
+      "support_px": 27063
+    },
+    {
+      "class_id": 6,
+      "class_name": "class_6",
+      "IoU": 0.5082428455352783,
+      "support_px": 34963
+    },
+    {
+      "class_id": 7,
+      "class_name": "class_7",
+      "IoU": 0.6893006563186646,
+      "support_px": 132538
+    },
+    {
+      "class_id": 8,
+      "class_name": "class_8",
+      "IoU": 0.5948118567466736,
+      "support_px": 31455
+    },
+    {
+      "class_id": 9,
+      "class_name": "class_9",
+      "IoU": 0.21827390789985657,
+      "support_px": 25960
+    },
+    {
+      "class_id": 10,
+      "class_name": "class_10",
+      "IoU": 0.4816623330116272,
+      "support_px": 37270
+    },
+    {
+      "class_id": 11,
+      "class_name": "class_11",
+      "IoU": 0.3583051562309265,
+      "support_px": 39687
+    },
+    {
+      "class_id": 12,
+      "class_name": "class_12",
+      "IoU": 0.20021633803844452,
+      "support_px": 10074
+    },
+    {
+      "class_id": 13,
+      "class_name": "class_13",
+      "IoU": 0.28811103105545044,
+      "support_px": 58365
+    },
+    {
+      "class_id": 14,
+      "class_name": "class_14",
+      "IoU": 0.6109488010406494,
+      "support_px": 51560
+    },
+    {
+      "class_id": 15,
+      "class_name": "class_15",
+      "IoU": 0.2467965930700302,
+      "support_px": 24947
+    },
+    {
+      "class_id": 16,
+      "class_name": "class_16",
+      "IoU": 0.12904371321201324,
+      "support_px": 20236
+    },
+    {
+      "class_id": 17,
+      "class_name": "class_17",
+      "IoU": 0.17503231763839722,
+      "support_px": 18676
+    }
+  ]
+}

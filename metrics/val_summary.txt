@@ -1,0 +1,2 @@
+VAL mIoU=0.249699
+VAL pixAcc=0.486129
